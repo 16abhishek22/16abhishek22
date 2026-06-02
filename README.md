@@ -1,12 +1,12 @@
-<!-- Animated waving header -->
+<!-- Animated header — deep navy-black with vivid violet glow -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E40AF&height=200&section=header&text=Abhishek%20Pandit&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20at%20Clickovia&descSize=20&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070912,50:6D28D9,100:070912&height=200&section=header&text=Abhishek%20Pandit&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Founder%20%26%20CEO%20at%20Clickovia&descSize=20&descAlignY=60&descColor=C4B5FD" alt="header" />
 </p>
 
 <!-- Typing animation tagline -->
 <p align="center">
   <a href="https://www.tryclickovia.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=The+AI+Operating+System+for+Construction;Civil+Engineer+%C3%97+AI+Founder;Columbia+MS+%7C+ex-NYC+Infrastructure;Turning+construction+pain+into+product" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B82F8&center=true&vCenter=true&width=640&lines=The+AI+Operating+System+for+Construction;Civil+Engineer+%C3%97+AI+Founder;Columbia+MS+%7C+ex-NYC+Infrastructure;Turning+construction+pain+into+product" alt="typing" />
   </a>
 </p>
 
@@ -23,26 +23,16 @@ I'm a civil engineer turned founder, building AI that automates the tedious, err
 
 ---
 
-### 🔭 What I'm building
+### <img src="https://raw.githubusercontent.com/16abhishek22/16abhishek22/main/Your%20paragraph%20text.png" alt="Clickovia" height="24" align="center" /> &nbsp;What I'm building
 
-**[Clickovia](https://www.tryclickovia.com)** — the **AI operating system for construction projects**. It reads project documents, tracks compliance, and removes the manual grind from how projects are run. Starting with submittal review and expanding across scheduling, meetings, and contracts.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=16abhishek22&show_icons=true&count_private=true&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="stats" height="165" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=16abhishek22&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" height="165" />
-</p>
+**[Clickovia](https://www.tryclickovia.com)** — the **AI operating system for construction projects**. It turns meetings, schedules, and documents into actionable insight: automating submittal review, tracking compliance, and removing the manual grind from how projects are run.
 
 ---
 
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://www.tryclickovia.com"><img src="https://img.shields.io/badge/Website-tryclickovia.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
-  <a href="https://www.linkedin.com/in/panditabhishek12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.tryclickovia.com">🌐 Website</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/panditabhishek12">💼 LinkedIn</a> &nbsp;•&nbsp;
+  📍 New York
 </p>
-
-<p align="center">📍 New York</p>
