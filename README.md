@@ -1,13 +1,6 @@
-<!-- Animated header — deep navy-black with vivid violet glow -->
+<!-- Brand banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070912,50:6D28D9,100:070912&height=200&section=header&text=Abhishek%20Pandit&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Founder%20%26%20CEO%20at%20Clickovia&descSize=20&descAlignY=60&descColor=C4B5FD" alt="header" />
-</p>
-
-<!-- Typing animation tagline -->
-<p align="center">
-  <a href="https://www.tryclickovia.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B82F8&center=true&vCenter=true&width=640&lines=The+AI+Operating+System+for+Construction;Civil+Engineer+%C3%97+AI+Founder;Columbia+MS+%7C+ex-NYC+Infrastructure;Turning+construction+pain+into+product" alt="typing" />
-  </a>
+  <img src="https://raw.githubusercontent.com/16abhishek22/16abhishek22/main/banner.png" alt="Abhishek Pandit — Founder & CEO @ Clickovia" width="100%" />
 </p>
 
 ---
