@@ -1,12 +1,12 @@
 <!-- Animated waving header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E40AF&height=200&section=header&text=Abhishek%20Pandit&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20@%20Clickovia%20%C2%B7%20Building%20AI%20for%20construction&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E40AF&height=200&section=header&text=Abhishek%20Pandit&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CEO%20at%20Clickovia&descSize=20&descAlignY=58" alt="header" />
 </p>
 
 <!-- Typing animation tagline -->
 <p align="center">
   <a href="https://www.tryclickovia.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Civil+Engineer+%C3%97+AI+Founder;Columbia+MS+%7C+ex-NYC+Infrastructure;ClickSubmittals+%E2%80%94+AI+submittal+review;Turning+construction+pain+into+product" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=The+AI+Operating+System+for+Construction;Civil+Engineer+%C3%97+AI+Founder;Columbia+MS+%7C+ex-NYC+Infrastructure;Turning+construction+pain+into+product" alt="typing" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 👋 About
 
-I'm a civil engineer turned founder, building AI that automates the tedious, error-prone document work on construction projects — starting with **submittal review**, the compliance grind every project manager dreads.
+I'm a civil engineer turned founder, building AI that automates the tedious, error-prone work on construction projects. I draw on years on large-scale NYC infrastructure to build software that actually fits how projects run.
 
 - 🏗️ **MS Civil Engineering & Construction Management** — Columbia University
 - 🚇 Former Project Engineer on large-scale **NYC infrastructure** (Primavera P6, Procore, CPM scheduling)
@@ -25,22 +25,7 @@ I'm a civil engineer turned founder, building AI that automates the tedious, err
 
 ### 🔭 What I'm building
 
-**[ClickSubmittals](https://www.tryclickovia.com)** — AI that reads any project specification and automatically flags missing or non-compliant contractor submittals. First product in a wider suite: ClickScheduling, ClickMeetings, ClickLegal.
-
----
-
-### 🛠️ Stack & Domain
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
-
-![Primavera P6](https://img.shields.io/badge/Primavera_P6-FA0F00?style=for-the-badge&logo=oracle&logoColor=white)
-![Procore](https://img.shields.io/badge/Procore-F47E20?style=for-the-badge&logoColor=white)
-![Construction Tech](https://img.shields.io/badge/Construction_Tech-FFB300?style=for-the-badge&logoColor=black)
+**[Clickovia](https://www.tryclickovia.com)** — the **AI operating system for construction projects**. It reads project documents, tracks compliance, and removes the manual grind from how projects are run. Starting with submittal review and expanding across scheduling, meetings, and contracts.
 
 ---
 
